@@ -1,0 +1,93 @@
+Yes. Your portfolio already has a distinctive terminal concept. To make it more high-end and attractive to HR, focus on **proof, clarity, and speed**:
+
+### Highest-impact improvements
+
+1. **Add real project screenshots**
+   Your project cards currently rely heavily on text visuals. Add actual screenshots for AlgoTrace, Scan My Food, CyberSentinel, ClipMind-AI, MediBridge, and Café Management.
+
+2. **Make the first 5 seconds clearer**
+   Keep the terminal landing, but show a small identity summary immediately:
+
+   > Shravani Patil  
+   > CSBS Developer · AI · Cybersecurity  
+   > Open to Software, AI/ML, and Cybersecurity Internships
+
+3. **Add a prominent résumé action**
+   Keep `DOWNLOAD RÉSUMÉ` visible in the full portfolio header or hero. HR should not need to use the terminal.
+
+4. **Add a “Currently Building” section**
+   Feature CyberSentinel or AlgoTrace with:
+
+   - Problem
+   - Approach
+   - Current status
+   - Technologies
+   - Repository/demo link
+
+5. **Show evidence instead of claims**
+   For every project, include:
+
+   - Your role
+   - What you personally built
+   - Technologies actually used
+   - Key feature
+   - GitHub/demo link
+   - Screenshot
+
+6. **Improve project CTA hierarchy**
+   Each project should clearly show:
+
+   `VIEW CASE STUDY` · `GITHUB` · `LIVE DEMO`
+
+   Hide buttons when links do not exist. Never use placeholder links.
+
+7. **Add a recruiter-focused summary**
+   Add a compact section such as:
+
+   > I build practical software across web, mobile, AI, and cybersecurity, with experience from academic, internship, and collaborative projects.
+
+8. **Use verified metrics carefully**
+   Your strongest verified proof points are:
+
+   - CGPA: `9.0`
+   - Diploma: `89.77%`
+   - Digital Techniques: `70/70`
+   - Internship durations: `45 days`, `30 days`, `60 days`
+   - Number of projects: `7 featured projects`
+
+9. **Make the contact section more direct**
+   Add a line above the form:
+
+   > Available for software engineering, AI/ML, and cybersecurity internships.
+
+   Include email, LinkedIn, GitHub, résumé, and the working form.
+
+10. **Add a LinkedIn link**
+   Your portfolio currently has GitHub and email, but LinkedIn is especially important for recruiters.
+
+### Important content correction
+
+Avoid presenting every project as equally complete. Use labels such as:
+
+- `FEATURED`
+- `INTERNSHIP PROJECT`
+- `ACADEMIC PROJECT`
+- `CONTRIBUTION`
+- `CURRENTLY BUILDING`
+
+This increases credibility.
+
+### Recommended final structure
+
+1. Terminal landing
+2. Full portfolio entry
+3. Hero identity
+4. Currently building
+5. Featured projects
+6. Technical stack
+7. Experience timeline
+8. Education and proof
+9. GitHub activity
+10. Contact and résumé
+
+The single biggest improvement would be adding **real screenshots and working GitHub/demo links** to the project cards. That will make the site feel like a real developer portfolio rather than a beautifully designed profile page.
